@@ -1,0 +1,32 @@
+# Dash et ses composants
+dash
+dash-bootstrap-components
+plotly
+
+# Gestion des données
+pandas
+openpyxl
+python-dotenv
+matplotlib
+
+# Langchain et OpenAI
+langchain
+langchain-openai
+langchain-experimental
+
+# LangGraph
+langgraph
+
+# Tunnel ngrok
+pyngrok
+
+# Langfuse
+langfuse
+
+# OpenTelemetry
+opentelemetry-sdk
+opentelemetry-exporter-otlp-proto-grpc
+opentelemetry-exporter-otlp
+
+# MLflow
+mlflow
