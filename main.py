@@ -6,7 +6,7 @@ from data_loader import load_data
 from layout import create_layout
 import callbacks  # importe tous les callbacks
 
-df_all = load_data("/content/App/data/Data Reporting KPI RH Q32024.xlsx")
+df_all = load_data("data\Data Reporting KPI RH Q32024.xlsx")
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = create_layout(df_all)

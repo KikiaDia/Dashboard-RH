@@ -10,8 +10,9 @@ python-dotenv
 matplotlib
 
 # Langchain et OpenAI
-langchain
-langchain-openai
+langchain==0.3.27
+langchain-openai==0.3.35
+langchain-core==0.3.79
 langchain-experimental
 
 # LangGraph
