@@ -31,3 +31,4 @@ opentelemetry-exporter-otlp
 
 # MLflow
 mlflow
+tabulate

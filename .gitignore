@@ -3,3 +3,4 @@ __pycache__
 .ipynb_checkpoints
 dash
 data\Data Reporting KPI RH Q32024.xlsx
+.venv
